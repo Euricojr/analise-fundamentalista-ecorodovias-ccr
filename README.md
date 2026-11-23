@@ -20,7 +20,7 @@ Repositório acadêmico contendo o código de extração de dados contábeis da 
 
 ## 🚀 Como Executar e Puxar Dados de Outras Empresas
 
-Se você ou seu colega quiser puxar os dados de outras empresas (ex: `VALE3`, `PETR4`, `WEGE3`, etc.), execute:
+Se você  quiser puxar os dados de outras empresas (ex: `VALE3`, `PETR4`, `WEGE3`, etc.), execute:
 
 ```bash
 # Para rodar com as empresas padrão (EcoRodovias e CCR):
